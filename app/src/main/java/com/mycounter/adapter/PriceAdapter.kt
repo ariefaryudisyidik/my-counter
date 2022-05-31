@@ -1,4 +1,4 @@
-package com.mycounter
+package com.mycounter.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

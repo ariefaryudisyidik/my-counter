@@ -14,7 +14,19 @@
         android:theme="@style/Theme.MyCounter"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.DoneActivity"
+            android:theme="@style/Theme.MyCounter.NoActionBar"
+            android:screenOrientation="portrait"
+            android:exported="false"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.CheckoutActivity"
+            android:exported="false"
+            android:label="Checkout"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".ui.MainActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.App.Starting"

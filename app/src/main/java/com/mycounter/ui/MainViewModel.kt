@@ -1,4 +1,4 @@
-package com.mycounter
+package com.mycounter.ui
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

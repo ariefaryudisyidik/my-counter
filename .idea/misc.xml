@@ -6,11 +6,14 @@
         <entry key="..\:/Project/Android Studio/MyCounter/app/src/main/res/drawable/ic_my_counter.xml" value="0.152" />
         <entry key="..\:/Project/Android Studio/MyCounter/app/src/main/res/drawable/ic_my_counter_text.xml" value="0.152" />
         <entry key="..\:/Project/Android Studio/MyCounter/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/drawable/bg_price.xml" value="0.2165" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/item_price.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/item_pulsa.xml" value="0.3421875" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

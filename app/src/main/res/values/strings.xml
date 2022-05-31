@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">MyCounter</string>
+    <string name="phone_number">Nomor HP</string>
+
+    <string-array name="pulse_price">
+        <item>5000</item>
+        <item>10000</item>
+        <item>15000</item>
+        <item>20000</item>
+        <item>30000</item>
+        <item>40000</item>
+        <item>50000</item>
+        <item>60000</item>
+        <item>75000</item>
+        <item>100000</item>
+    </string-array>
+
+    <string-array name="paid_price">
+        <item>7000</item>
+        <item>12000</item>
+        <item>17000</item>
+        <item>22000</item>
+        <item>32000</item>
+        <item>42000</item>
+        <item>52000</item>
+        <item>62000</item>
+        <item>77000</item>
+        <item>102000</item>
+    </string-array>
 </resources>
